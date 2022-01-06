@@ -1,0 +1,92 @@
+body{
+    display: flex;        
+    justify-content: center;
+    font-family: 'Balsamiq Sans';
+}
+
+.encabezado{
+    width: 554px;
+    background-color: rgb(49, 194, 194);
+    height: 80px;
+    position: absolute;
+    top: 50px;
+    left: 406px;
+}
+
+.user{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 91px;
+    left: 440px;
+}
+
+.usercont{
+    width: 80px;
+    height: 80px;
+    border: 5px solid rgb(223, 215, 215);
+    border-radius: 70px;
+    position: absolute;
+    top: 85px;
+    left: 435px;
+}
+
+.contenedor{
+    border: 2px solid rgb(197, 190, 190);
+    border-top-color:transparent;
+    width: 500px;
+    display: inline-block;
+    justify-content: center;
+    padding: 30px 25px;
+    position: relative;
+    top: 120px;
+}
+
+.azul{
+    background-color: rgb(49, 194, 194);
+    height: 100px;
+}
+
+.ubicacion{
+    display: flex;
+    position: relative;
+    align-items: center;
+    bottom: 20px;
+}
+
+.map{
+    width: 17px;
+    height: 25px;
+}
+
+.gear{
+    width: 25px;
+    height: 25px;
+}
+
+h3{
+    position: relative;
+    left: 13px;
+}
+
+a{  
+    position: relative;
+    left: 13px;
+}
+
+.cuerpo{
+    position: absolute;
+    top: 120px
+}
+
+.hiper{
+    position: relative;
+    top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.master{
+    position: relative;
+    bottom: 7px;
+}
